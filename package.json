@@ -1,0 +1,24 @@
+{
+  "name": "xiemu-blog",
+  "version": "1.0.0",
+  "description": "博客静态资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiemu-c/xiemu-blog.git"
+  },
+  "keywords": [
+    "XieMu",
+    "Blog",
+    "XieMuBlog"
+  ],
+  "author": "XieMu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiemu-c/xiemu-blog/issues"
+  },
+  "homepage": "https://github.com/xiemu-c/xiemu-blog#readme"
+}

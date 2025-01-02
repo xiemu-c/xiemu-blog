@@ -1,0 +1,7 @@
+#welcome-info {
+    overflow: hidden;
+    border-radius: 14px;
+    --anzhiyu-welcome-color: #49B1F5;
+    --anzhiyu-ip-color: #49B1F5;
+    --anzhiyu-gl-size: 16px!important;
+  }
